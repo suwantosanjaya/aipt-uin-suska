@@ -1,0 +1,27 @@
+[
+  {
+    "id": "2",
+    "title": "STANDAR 2",
+    "link": "",
+    "type": "",
+    "rel": [],
+    "child": [
+      {
+        "id": "2a",
+        "title": "2.a Seleksi Mahasiswa Baru",
+        "link": "https://drive.google.com/drive/folders/1Na5iErw3krWLgRgWQGc4b0CJJJ5N9eZv?usp=sharing",
+        "type": "fdrive",
+        "rel": [],
+        "child": []
+      },
+      {
+        "id": "2b",
+        "title": "2.b Mahasiswa Asing",
+        "link": "https://drive.google.com/drive/folders/1NaDlASGc-KPr4xFeVQX-gPwWjY9I85U-?usp=sharing",
+        "type": "fdrive",
+        "rel": [],
+        "child": []
+      }
+    ]
+  }
+]

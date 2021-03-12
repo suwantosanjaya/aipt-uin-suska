@@ -1,0 +1,18 @@
+[
+    {
+        "id": "a",
+        "title": "Data Pendukung Akreditasi Perguruan Tinggi (APT)",
+        "link": "",
+        "type": "",
+        "rel": [],
+        "child": []
+    },
+    {
+        "id": "b",
+        "title": "Data Pendukung Akreditasi Program Studi (APS)",
+        "link": "",
+        "type": "",
+        "rel": [],
+        "child": []
+    }
+]

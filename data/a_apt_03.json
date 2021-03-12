@@ -1,0 +1,84 @@
+[
+    {
+        "id": "a3",
+        "title": "Mahasiswa",
+        "link": "",
+        "type": "",
+        "rel": [],
+        "child": [
+            {
+                "id": "a311",
+                "title": "3.1.1 Dokumen sistem penerimaan mahasiswa baru",
+                "link": "https://drive.google.com/drive/folders/1SHINiGVHN6cVaI-VMz9t6kON5Hikb0KE?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a316",
+                "title": "3.1.6 Instrumen pengukuran kepuasan mahasiswa",
+                "link": "https://drive.google.com/drive/folders/1SS2zU0nkPjUrvo1zJIfuOXo3qqSrBWLW?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a317",
+                "title": "3.1.7 Laporan hasil survei kepuasan mahasiswa",
+                "link": "https://drive.google.com/drive/folders/1SXOaPqBpcZG6TkfD9G5TlVwmZ9nEqQFZ?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a319",
+                "title": "3.1.9 Dokumen kebijakan dan program layanan bimbingan karir dan informasi kerja untuk mahasiswa dan lulusan",
+                "link": "https://drive.google.com/drive/folders/1SbvvSqzwyGgRh1vN8QWTi5texuUikxUS?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a3110",
+                "title": "3.1.10 Laporan pelaksanaan kebijakan dan program layanan bimbingan karir dan informasi kerja untuk mahasiswa dan lulusan",
+                "link": "https://drive.google.com/drive/folders/1SRCr0TMgEe263TjxNlEmq-lFzNMOiClD?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a3111",
+                "title": "3.1.11 Bukti prestasi akademik dan non-akademik yang dicapai mahasiswa",
+                "link": "https://drive.google.com/drive/folders/1SPAEsJ9o5mYRJi1si_XNZ_G1WTPF1OrG?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+
+            {
+                "id": "a321",
+                "title": "3.2.1 Daftar lulusan dalam lima tahun terakhir (termasuk IPK)",
+                "link": "https://drive.google.com/drive/folders/1S_K2Ye62hrKHhIDXqtdEEscj3hfb-Lqb?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a323",
+                "title": "3.2.3 Instrumen evaluasi lulusan",
+                "link": "https://drive.google.com/drive/folders/1SdB1F-HAHMsNKKhQWABaHTiRJyLdsC4S?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a345",
+                "title": "3.4.5 Daftar bentuk partisipasi alumni",
+                "link": "https://drive.google.com/drive/folders/1SgyX8ZWg5NVe1zahvx4yyWkW9nQRfFwm?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            }
+        ]
+    }
+]

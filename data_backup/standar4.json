@@ -1,0 +1,27 @@
+[
+  {
+    "id": "4",
+    "title": "STANDAR 4",
+    "link": "",
+    "type": "",
+    "rel": [],
+    "child": [
+      {
+        "id": "4a",
+        "title": "4.a Perolehan Dana",
+        "link": "https://drive.google.com/drive/folders/1OSMXH4I5TLnPY1zBOXeS6xUZ7a6RCj4e?usp=sharing",
+        "type": "fdrive",
+        "rel": [],
+        "child": []
+      },
+      {
+        "id": "4b",
+        "title": "4.b Penggunaan Dana",
+        "link": "https://drive.google.com/drive/folders/1OYetZTGcO8fcq3dJB12_pEaQdXjjQx0-?usp=sharing",
+        "type": "fdrive",
+        "rel": [],
+        "child": []
+      }
+    ]
+  }
+]

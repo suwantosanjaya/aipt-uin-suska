@@ -1,0 +1,83 @@
+[
+    {
+        "id": "a4",
+        "title": "Sumber daya Manusia",
+        "link": "",
+        "type": "",
+        "rel": [],
+        "child": [
+            {
+                "id": "a41",
+                "title": "4.1 Dokumen sistem pengelolaan sumberdaya manusia",
+                "link": "https://drive.google.com/drive/folders/1SimTK_2ZKTUGwSbGvLfnGEy4EAgR8BsL?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a421",
+                "title": "4.2.1 Dokumen sistem monitoring dan evaluasi serta rekam jejak kinerha sumberdaya manusia",
+                "link": "https://drive.google.com/drive/folders/1Sj-DegPqF7ueJSRj6Y4GP4q41lcM823a?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a422",
+                "title": "4.2.2 Dokumen hasil monitoring dan evaluasi serta rekam jejak kinerja sumberdaya manusia",
+                "link": "https://drive.google.com/drive/folders/1SkCmun8p8wmPR3IRroCPgzT-LBOuOLun?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a431",
+                "title": "4.3.1 Fotokopi ijazah terakhir dan sertifikat pendidik dosen tetap",
+                "link": "https://drive.google.com/drive/folders/1SnaEQZX7mMCk7nUpEK2GSbTtSa739RKU?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a432",
+                "title": "4.3.2 Fotokopi ijazah dan sertifikat pendidik dosen tidak tetap",
+                "link": "https://drive.google.com/drive/folders/1SpTO4SpbkM6aFO8d_KCDkHTCTvmLMdPv?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a44",
+                "title": "4.4 Daftar dosen tetap yang sedang tugas belajar",
+                "link": "https://drive.google.com/drive/folders/1SqejyMKnZW1zRDFqb7ZGCkKmdNl3Fkvf?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a451",
+                "title": "4.5.1 Fotokopi ijazah dan sertifikat kompetensi tenaga kependidikan",
+                "link": "https://drive.google.com/drive/folders/1Sqk_Swca1FiA2yjbPtxxWXrKO3BhZDdN?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a461",
+                "title": "4.6.1 Instrumen kepuasan dosen dan tenaga kependidikan",
+                "link": "https://drive.google.com/drive/folders/1Sv6vYB57MXhkxjo_IC1gf7rXhFvvi9YM?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a462",
+                "title": "4.6.2 Laporan hasil survei kepuasan dosen dan tenaga kependidikan",
+                "link": "https://drive.google.com/drive/folders/1TAIe6xgDyU5c0p7c3r5OZGyCNsvzGyYz?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            }
+        ]
+    }
+]

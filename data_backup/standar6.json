@@ -1,0 +1,627 @@
+[
+	{
+        "id": "6",
+        "title": "STANDAR 6. PEMBIAYAAN, PRASARANA, SARANA, DAN SISTEM INFORMASI",
+        "link": "",
+		"type": "",
+        "rel": [],
+        "child": [
+            {
+                "id": "61",
+                "title": "6.1. Pengelolaan Dana",
+                "link": "",
+				"type": "",
+                "rel": [],
+                "child": [
+                    {
+                        "id": "611",
+                        "title": "Bukti-bukti prodi dilibatkan dalam perencanaan target kinerja, perencanaan kegiatan",
+                        "link": "https://drive.google.com/drive/folders/1zQpMNrtYQnZoxqj9IrUNYBvjlZwhJrT_?usp=sharing",
+						"type": "fdrive",
+                        "rel": [],
+                        "child": []
+                    },
+					{
+						"id": "612",
+						"title": "Surat undangan raker Fakultas",
+						"link": "https://drive.google.com/drive/folders/1zbq9-TD0nFEfVC62JBWq49XAqtr-QfDu?usp=sharing",
+						"type": "fdrive",
+						"rel": [],
+						"child": []
+					}
+				]
+            },
+            {
+                "id": "62",
+                "title": "6.2. Perolehan dan Alokasi Dana",
+                "link": "",
+				"type": "",
+                "rel": [],
+                "child": [
+                    {
+                        "id": "621",
+                        "title": "Besarnya dana (termasuk hibah) yang dikelola dalam tiga tahun terakhir",
+                        "link": "",
+						"type": "",
+                        "rel": [],
+                        "child": [
+							{
+								"id": "6211",
+								"title": "Daftar realisasi perolehan dan alokasi dana Prodi",
+								"link": "https://drive.google.com/drive/folders/1zj4tMrhwIT6h3A8thhLBzOz7QaWbu34q?usp=sharing",
+								"type": "fdrive",
+								"rel": [],
+								"child": []
+							}
+						]
+                    },
+					{
+						"id": "622",
+						"title": "Dana penelitian dalam tiga tahun terakhir",
+						"link": "",
+						"type": "",
+						"rel": [],
+						"child": [
+							{
+								"id": "6221",
+								"title": "Rekap hasil penelitian",
+								"link": "https://drive.google.com/drive/folders/1zjESvHPKr9ThgNqNeu6fTlHC_BB5F1oD?usp=sharing",
+								"type": "fdrive",
+								"rel": [],
+								"child": []
+							},
+							{
+								"id": "6222",
+								"title": "Laporan Penelitian",
+								"link": "https://drive.google.com/drive/folders/1zjpdMhciakY2GD0VQqmCC255StR6-FLU?usp=sharing",
+								"type": "fdrive",
+								"rel": [],
+								"child": []
+							}
+						]
+					},
+					{
+						"id": "623",
+						"title": "Dana yang diperoleh dalam rangka pengabdian kepada masyarakat dalam tiga tahun terakhir",
+						"link": "",
+						"type": "",
+						"rel": [],
+						"child": [
+							{
+								"id": "6231",
+								"title": "Laporan Penggunaan Dana Pengabdian Masyarakat",
+								"link": "https://drive.google.com/drive/folders/1zrpdLEEJ7fo1gPfhLorMoEZvko36uEDJ?usp=sharing",
+								"type": "fdrive",
+								"rel": [],
+								"child": []
+							},
+							{
+								"id": "6232",
+								"title": "SK Pengabdian pada Masyarakat dari lembaga pengabdian masyarakat",
+								"link": "https://drive.google.com/drive/folders/1zxrhc_J9eoBRqkqBW0bUXjBHaqZT08NS?usp=sharing",
+								"type": "fdrive",
+								"rel": [],
+								"child": []
+							}
+						]
+					}
+				]
+            },
+			{
+                "id": "63",
+                "title": "6.3. Prasarana",
+                "link": "",
+				"type": "",
+                "rel": [],
+                "child": [
+                    {
+                        "id": "631",
+                        "title": "6.3.1 Luas ruang kerja dosen",
+                        "link": "",
+						"type": "",
+                        "rel": [],
+                        "child": [
+							{
+								"id": "6311",
+								"title": "Daftar Inventaris",
+								"link": "https://drive.google.com/drive/folders/1DQf0WFNZXWXcK-fj8p9kEATtqgQ-pV-6?usp=sharing",
+								"type": "fdrive",
+								"rel": [],
+								"child": []
+							},
+							{
+								"id": "6312",
+								"title": "Data jumlah ruang dosen",
+								"link": "https://drive.google.com/drive/folders/1--P3kFS5Nm7uRrHx_hKfMORbbI0pmhrP?usp=sharing",
+								"type": "fdrive",
+								"rel": [],
+								"child": []
+							}
+						]
+                    },
+					{
+						"id": "632",
+						"title": "6.3.2 Prasarana",
+						"link": "",
+						"type": "",
+						"rel": [],
+						"child": [
+							{
+								"id": "6321",
+								"title": "Daftar inventaris prasarana",
+								"link": "https://drive.google.com/drive/folders/1-8Pf113C9cbo-wZ59p5qVvMdKTYKHJph?usp=sharing",
+								"type": "fdrive",
+								"rel": [],
+								"child": []
+							}
+						]
+					},
+					{
+						"id": "633",
+						"title": "6.3.3 Prasarana lain yang menunjang",
+						"link": "",
+						"type": "",
+						"rel": [],
+						"child": [
+							{
+								"id": "6331",
+								"title": "Daftar inventaris prasarana",
+								"link": "https://drive.google.com/drive/folders/1-9s2Q5qjHOWHMdaITzOxnRc9crGcKeZ9?usp=sharing",
+								"type": "fdrive",
+								"rel": [],
+								"child": []
+							}
+						]
+					}
+				]
+            },
+			{
+                "id": "64",
+                "title": "6.4. Sarana Pelaksanaan Kegiatan Akademik",
+                "link": "",
+				"type": "",
+                "rel": [],
+                "child": [
+                    {
+                        "id": "641a",
+                        "title": "6.4.1.a Bahan pustaka yang berupa buku teks",
+                        "link": "",
+						"type": "",
+                        "rel": [],
+                        "child": [
+							{
+								"id": "641a1",
+								"title": "Daftar/katalog buku dari perpustakaan Prodi, Fakultas, PT",
+								"link": "http://inlislite.uin-suska.ac.id/opac/search",
+								"type": "link",
+								"rel": [],
+								"child": []
+							}
+						]
+                    },
+					{
+						"id": "641b",
+						"title": "6.4.1.b Bahan pustaka yang berupa disertasi/tesis/skripsi/tugas akhir",
+						"link": "",
+						"type": "",
+						"rel": [],
+						"child": [
+							{
+								"id": "641b1",
+								"title": "Repositori UIN Suska Riau",
+								"link": "http://repository.uin-suska.ac.id/cgi/search/simple",
+								"type": "link",
+								"rel": [],
+								"child": []
+							}
+						]
+					},
+					{
+						"id": "641c",
+						"title": "6.4.1.c Bahan pustaka yang berupa jurnal ilmiah terakreditasi Dikti",
+						"link": "",
+						"type": "",
+						"rel": [],
+						"child": [
+							{
+								"id": "641c1",
+								"title": "Jurnal Nasional",
+								"link": "https://sinta.ristekbrin.go.id/journals",
+								"type": "link",
+								"rel": [],
+								"child": []
+							}
+						]
+					},
+					{
+						"id": "641d",
+						"title": "6.4.1.d Bahan pustaka yang berupa jurnal ilmiah internasional",
+						"link": "",
+						"type": "",
+						"rel": [],
+						"child": [
+							{
+								"id": "641d1",
+								"title": "The Journal of the American Medical Association",
+								"link": "https://jamanetwork.com/journals/jama",
+								"type": "link",
+								"rel": [],
+								"child": []
+							},
+							{
+								"id": "641d2",
+								"title": "Drug Safety: The Official Journal of the International Society of Pharmacovigilance",
+								"link": "https://www.springer.com/journal/40264",
+								"type": "link",
+								"rel": [],
+								"child": []
+							}
+						]
+					},
+					{
+						"id": "641e",
+						"title": "6.4.1.e Bahan pustaka yang berupa prosiding seminar dalam tiga tahun terakhir",
+						"link": "",
+						"type": "",
+						"rel": [],
+						"child": [
+							{
+								"id": "641e1",
+								"title": "Prosiding SNTIKI",
+								"link": "http://ejournal.uin-suska.ac.id/index.php/SNTIKI/issue/archive",
+								"type": "link",
+								"rel": [],
+								"child": []
+							}
+						]
+					},
+					{
+						"id": "642",
+						"title": "6.4.2 Akses ke perpustakaan di luar PT atau sumber pustaka lainnya",
+						"link": "",
+						"type": "",
+						"rel": [],
+						"child": [
+							{
+								"id": "6421",
+								"title": "Daftar MOU dan nama perpustakaan di luar PT yang dapat diakses mahasiswa",
+								"link": "https://drive.google.com/drive/folders/1-wCOf3R0D8caBR3ob3i6RTajWWY1W4h5?usp=sharing",
+								"type": "fdrive",
+								"rel": [],
+								"child": []
+							}
+						]
+					},
+					{
+						"id": "643",
+						"title": "6.4.3 Ketersediaan, akses dan pendayagunaan sarana utama di lab",
+						"link": "",
+						"type": "",
+						"rel": [],
+						"child": [
+							{
+								"id": "6431",
+								"title": "Daftar inventaris sarana utama",
+								"link": "https://drive.google.com/drive/folders/1-y96HxLsUTgxveYPtJXRDrucp433uVTw?usp=sharing",
+								"type": "fdrive",
+								"rel": [],
+								"child": []
+							}
+						]
+					}
+				]
+            },
+			{
+                "id": "65",
+                "title": "6.5. Sistem Informasi",
+                "link": "",
+				"type": "",
+                "rel": [],
+                "child": [
+                    {
+                        "id": "651",
+                        "title": "6.5.1 Sistem informasi dan fasilitas yang digunakan PS dalam proses pembelajaran",
+                        "link": "",
+						"type": "",
+                        "rel": [],
+                        "child": [
+							{
+								"id": "6511",
+								"title": "Sistem Informasi Pendukung Proses Peningkatan Pendidikan Yang Telah Diterapkan",
+								"link": "",
+								"type": "",
+								"rel": [],
+								"child": [
+									{
+										"id": "6511",
+										"title": "Pedoman dan Kebijakan Penggunaan Sistem Informasi",
+										"link": "https://drive.google.com/drive/folders/101FyEKQLwcmLKlVd0oWWpv_Zy1XEru7m?usp=sharing",
+										"type": "fdrive",
+										"rel": [],
+										"child": []
+									},
+									{
+										"id": "6512",
+										"title": "Hotspot PT, Fakultas, Prodi",
+										"link": "https://drive.google.com/drive/folders/10739wboPaGHng2RPVrv30obCeKX-J4qb?usp=sharing",
+										"type": "fdrive",
+										"rel": [],
+										"child": []
+									},
+									{
+										"id": "6513",
+										"title": "Website",
+										"link": "",
+										"type": "fdrive",
+										"rel": [],
+										"child": [
+											{
+												"id": "651301",
+												"title": "Sistem Informasi Akademik Online dan Kemahasiswaan",
+												"link": "https://iraise.uin-suska.ac.id",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651302",
+												"title": "Sistem Registrasi Mahasiswa (Sireg)",
+												"link": "https://sireg.uin-suska.ac.id/",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651305",
+												"title": "Sistem Informasi Kerja Praktek",
+												"link": "https://apps-tif.uin-suska.ac.id/kp/",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651306",
+												"title": "Sistem Informasi Tugas Akhir",
+												"link": "https://apps-tif.uin-suska.ac.id/ta/",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651322",
+												"title": "Sistem Informasi Sekretaris Prodi Teknik Informatika",
+												"link": "https://apps-tif.uin-suska.ac.id/sekjur/",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651323",
+												"title": "Tracer Study Alumni Prodi Teknik Informatika",
+												"link": "https://apps-tif.uin-suska.ac.id/tracer/",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651307",
+												"title": "Sistem Pengingat Review Tugas Akhir (Reminder System) - Bot Telegram",
+												"link": "https://web.telegram.org/#/im?p=@AppsTifUinSuskaBot",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651319",
+												"title": "Portal Pengurusan Administrasi Akademik Fakultas Sains dan Teknologi Online",
+												"link": "https://seminar-fst.uin-suska.ac.id/akademik/",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651320",
+												"title": "Sistem Pengingat Jadwal Seminar Mahasiswa - Bot Telegram",
+												"link": "https://web.telegram.org/#/im?p=@seminarfst_bot",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651303",
+												"title": "Sistem Informasi Wisuda",
+												"link": "https://wisuda.uin-suska.ac.id",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651304",
+												"title": "Sistem Informasi Perpustakaan",
+												"link": "https://lib.uin-suska.ac.id",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651308",
+												"title": "Sistem Informasi Penerimaan Mahasiswa Baru",
+												"link": "https://pmb.uin-suska.ac.id/",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651309",
+												"title": "Repository",
+												"link": "http://repository.uin-suska.ac.id",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651310",
+												"title": "Sistem Informasi Penelitian dan Pengabdian Masyarakat",
+												"link": "http://lppm.uin-suska.ac.id",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651311",
+												"title": "Sistem Informasi Administrasi Surat Menyurat",
+												"link": "http://siasy.uin-suska.ac.id",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651312",
+												"title": "Sistem Informasi Dosen dan Pegawai",
+												"link": "http://staff.uin-suska.ac.id",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651313",
+												"title": "Sistem Informasi Akademik",
+												"link": "http://akademik.uin-suska.ac.id",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651314",
+												"title": "Sistem Audit Mutu Akademik Internal (AMAI)",
+												"link": "http://ami.uin-suska.ac.id",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651315",
+												"title": "Website Fakultas Sains dan Teknologi (FST)",
+												"link": "http://fst.uin-suska.ac.id",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651316",
+												"title": "Website Prodi Teknik Informatika",
+												"link": "http://tif.uin-suska.ac.id",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651317",
+												"title": "Open Jurnal System (OJS) UIN Suska Riau",
+												"link": "http://ejournal.uin-suska.ac.id",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651318",
+												"title": "Website Jurnal prodi teknik Informatika (CoreIT)",
+												"link": "http://ejournal.uin-suska.ac.id/index.php/coreit",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651321",
+												"title": "Website Seminar Nasional Teknologi Informasi, Komunikasi dan Industri (SNTIKI)",
+												"link": "",
+												"type": "",
+												"rel": [],
+												"child": [
+													{
+														"id": "6513211",
+														"title": "SNTIKI Web",
+														"link": "http://sntiki.uin-suska.ac.id/",
+														"type": "link",
+														"rel": [],
+														"child": []
+													},
+													{
+														"id": "6513212",
+														"title": "SNTIKI OJS",
+														"link": "http://ejournal.uin-suska.ac.id/index.php/sntiki",
+														"type": "link",
+														"rel": [],
+														"child": []
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "6514",
+										"title": "e-learning",
+										"link": "",
+										"type": "fdrive",
+										"rel": [],
+										"child": [
+											{
+												"id": "651401",
+												"title": "E-learning UIN Suska Riau",
+												"link": "https://elearning.uin-suska.ac.id",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651402",
+												"title": "Google Classroom",
+												"link": "https://classroom.google.com",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651403",
+												"title": "Edmodo",
+												"link": "https://www.edmodo.com",
+												"type": "link",
+												"rel": [],
+												"child": []
+											},
+											{
+												"id": "651404",
+												"title": "Oracle Academy",
+												"link": "https://academy.oracle.com/",
+												"type": "link",
+												"rel": [],
+												"child": []
+											}
+										]
+									}
+								]
+							}
+						]
+                    },
+					{
+                        "id": "652",
+                        "title": "6.5.2 Aksesibilitas data dalam sistem informasi",
+                        "link": "",
+						"type": "",
+						"rel": [],
+                        "child": [
+							{
+								"id": "6521",
+								"title": "Dokumen aksesibilitas sistem Informasi",
+								"link": "https://drive.google.com/drive/folders/10GJHHJ3r3SQoDcXUidf_C4JHQzJR4Zfq?usp=sharing",
+								"type": "fdrive",
+								"rel": [],
+								"child": []
+							}
+						]
+                    }
+				]
+            }
+        ]
+    }
+]

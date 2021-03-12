@@ -1,0 +1,43 @@
+[
+    {
+        "id": "b3doc",
+        "title": "Dokumentasi video",
+        "link": "",
+        "type": "",
+        "rel": [],
+        "child": [
+            {
+                "id": "b3doc1",
+                "title": "Fasilitas terpusat (laboratorium, Perpustakaan, pengelola sistem informasi)",
+                "link": "https://drive.google.com/drive/folders/1-4ASHzKJhUAPMUwF1_eR3N2BkZX3S5hT?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "b3doc2",
+                "title": "Lecture/Lab work/research",
+                "link": "https://drive.google.com/drive/folders/1-6CuznvR776ceTa3xVQzX0CNM3vnoFCg?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "b3doc3",
+                "title": "Ruang dosen dan tenaga kependidikan",
+                "link": "https://drive.google.com/drive/folders/1-5GURPaxiJzs441mq2_ccpuXO8pzOXwW?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "b3doc4",
+                "title": "Fasilitas umum, UKM, dan Fasilitas pendukung lainnya",
+                "link": "https://drive.google.com/drive/folders/1-AFw6LtHrRX3DRhhw01ytGKdhHnmH2SU?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            }
+        ]
+    }
+]

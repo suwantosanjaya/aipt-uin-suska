@@ -1,0 +1,75 @@
+[
+    {
+        "id": "3",
+        "title": "STANDAR 3",
+        "link": "",
+        "type": "",
+        "rel": [],
+        "child": [
+            {
+                "id": "3a1",
+                "title": "3.a.1 Kecukupan Dosen Perguruan Tinggi",
+                "link": "https://drive.google.com/drive/folders/1NbE2haKL5VxjcW9XRniRkHWkLDEn1LnX?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "3a2",
+                "title": "3.a.2 Jabatan Akademik Dosen Tetap",
+                "link": "https://drive.google.com/drive/folders/1NfXfR9i5LUUsueXNcCPLGlWfpVSSh0HC?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "3a3",
+                "title": "3.a.3 Sertifikasi Dosen (Pendidik Profesional/Profesi/Industri/Kompetensi)",
+                "link": "https://drive.google.com/drive/folders/1Njse5RIQ4TU93_R47QQGUpI_loc98Sun?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "3a4",
+                "title": "3.a.4 Dosen Tidak Tetap",
+                "link": "https://drive.google.com/drive/folders/1Ns4s-H_H94mGrJeJIFN1QnO2YaNK7yY4?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "3b",
+                "title": "3.b Rasio Dosen terhadap Mahasiswa",
+                "link": "https://drive.google.com/drive/folders/1O4iC3d9z7k5LroVXCz_ygaaY4C2hz5rY?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "3c1",
+                "title": "3.c.1 Produktivitas Penelitian Dosen",
+                "link": "https://drive.google.com/drive/folders/1O7lAgwQTowAQjhu3Z4vVVSF9VcF9nJ_8?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "3c2",
+                "title": "3.c.2 Produktivitas PkM Dosen",
+                "link": "https://drive.google.com/drive/folders/1OCTzW7rlJcq_QHwV8esH8oUArNk3Om9F?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "3d",
+                "title": "3.d Rekognisi Dosen",
+                "link": "https://drive.google.com/drive/folders/1OLX_kSvpUhC32n8bM773d-Dpq2fVERFr?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            }
+        ]
+    }
+]

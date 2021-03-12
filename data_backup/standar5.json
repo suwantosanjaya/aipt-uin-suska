@@ -1,0 +1,140 @@
+[
+  {
+    "id": "5",
+    "title": "STANDAR 5",
+    "link": "",
+    "type": "",
+    "rel": [],
+    "child": [
+      {
+        "id": "5a1",
+        "title": "5.a.1 Indeks Prestasi Mahasiswa (IPK)",
+        "link": "https://drive.google.com/drive/folders/1PH_pKUm_aSjQzaWwyfrV882asnV1t9gj?usp=sharing",
+        "type": "fdrive",
+        "rel": [],
+        "child": []
+      },
+      {
+        "id": "5b1",
+        "title": "5.b.1 Prestasi Akademik Mahasiswa",
+        "link": "https://drive.google.com/drive/folders/1PTnn8g9x7-dZIUDDF2S_LIcgUxHszD_t?usp=sharing",
+        "type": "fdrive",
+        "rel": [],
+        "child": []
+      },
+      {
+        "id": "5b2",
+        "title": "5.b.2 Prestasi Non-akademik Mahasiswa",
+        "link": "https://drive.google.com/drive/folders/1PTMWo-x0LfMp8aa7CEnsoHi5JudENgo8?usp=sharing",
+        "type": "fdrive",
+        "rel": [],
+        "child": []
+      },
+      {
+        "id": "5c1",
+        "title": "5.c.1 Lama Studi Mahasiswa",
+        "link": "https://drive.google.com/drive/folders/1PPBlv2rDIfxa4W_JRQ0mUHSeJbIBGL3B?usp=sharing",
+        "type": "fdrive",
+        "rel": [],
+        "child": []
+      },
+      {
+        "id": "5c2",
+        "title": "5.c.2 Rasio kelulusan tepat waktu dan rasio keberhasilan studi",
+        "link": "https://drive.google.com/drive/folders/1PbrLIRtUa8pDM7XbzXKsYwskqpSRgs_r?usp=sharing",
+        "type": "fdrive",
+        "rel": [],
+        "child": []
+      },
+      {
+        "id": "5d1",
+        "title": "5.d.1 Waktu Tunggu Lulusan",
+        "link": "https://drive.google.com/drive/folders/1OZpkMvgwQewkJEvovWSHlMN3-M9hFnSH?usp=sharing",
+        "type": "fdrive",
+        "rel": [],
+        "child": []
+      },
+      {
+        "id": "5d2",
+        "title": "5.d.2 Kesesuaian Bidang Kerja Lulusan",
+        "link": "https://drive.google.com/drive/folders/1OopYrRqIkHT2SC4uiBZ86n5j3ZTrqvtu?usp=sharing",
+        "type": "fdrive",
+        "rel": [],
+        "child": []
+      },
+      {
+        "id": "5e1",
+        "title": "5.e.1 Kepuasan Pengguna Lulusan",
+        "link": "https://drive.google.com/drive/folders/1OnUYkRbeTefmsCTkOgMDzYpfaOEncbbp?usp=sharing",
+        "type": "fdrive",
+        "rel": [],
+        "child": []
+      },
+      {
+        "id": "5e2",
+        "title": "5.e.2 Tempat Kerja Lulusan",
+        "link": "https://drive.google.com/drive/folders/1OlquxzMQgcpGNEQi6qsUFoBo4PMCmebq?usp=sharing",
+        "type": "fdrive",
+        "rel": [],
+        "child": []
+      },
+      {
+        "id": "5f",
+        "title": "5.f Publikasi Ilmiah",
+        "link": "https://drive.google.com/drive/folders/1P2pbgylA5w6NBtXOA8giiQpDfp6sX2FE?usp=sharing",
+        "type": "fdrive",
+        "rel": [],
+        "child": []
+      },
+      {
+        "id": "5g",
+        "title": "5.g Sitasi Karya Ilmiah",
+        "link": "https://drive.google.com/drive/folders/1OtfoGW_8gdYz_6PbAF7IfBxeCHiOcvGh?usp=sharing",
+        "type": "fdrive",
+        "rel": [],
+        "child": []
+      },
+      {
+        "id": "5h",
+        "title": "5.h Luaran Lainnya",
+        "link": "",
+        "type": "",
+        "rel": [],
+        "child": [
+          {
+            "id": "5h1",
+            "title": "5.h.1 HKI (Paten, Paten Sederhana)",
+            "link": "https://drive.google.com/drive/folders/1P4x9Np36z_dZOcp7AqdrxlqwdT6D-G9q?usp=sharing",
+            "type": "fdrive",
+            "rel": [],
+            "child": []
+          },
+          {
+            "id": "5h2",
+            "title": "5.h.2 HKI (Hak Cipta, Desain Produk Industri, dll)",
+            "link": "https://drive.google.com/drive/folders/1P7EoPcDMho5KzYrgeCw7y6zvX0bGjuhc?usp=sharing",
+            "type": "fdrive",
+            "rel": [],
+            "child": []
+          },
+          {
+            "id": "5h3",
+            "title": "5.h.3 Teknologi Tepat Guna, Produk, Karya Seni, Rekayasa Sosial",
+            "link": "https://drive.google.com/drive/folders/1P6dUzPJZxFyQ6OWm6LhikuMwJJ_Q1Bbp?usp=sharing",
+            "type": "fdrive",
+            "rel": [],
+            "child": []
+          },
+          {
+            "id": "5h4",
+            "title": "5.h.4 Buku ber-ISBN, Book Chapter",
+            "link": "https://drive.google.com/drive/folders/1P65CzUMolGaoqppeKcdGOA8yE7vyR2JZ?usp=sharing",
+            "type": "fdrive",
+            "rel": [],
+            "child": []
+          }
+        ]
+      }
+    ]
+  }
+]

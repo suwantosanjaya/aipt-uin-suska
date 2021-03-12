@@ -1,0 +1,107 @@
+[
+    {
+        "id": "b1u",
+        "title": "Unit Pengelola Program Studi (UPPS)",
+        "link": "",
+        "type": "",
+        "rel": [],
+        "child": [
+            {
+                "id": "b1u0",
+                "title": "Fotokopi SK pendirian Fakultas/Sekolah Tinggi",
+                "link": "https://drive.google.com/drive/folders/1VNUZJa-s3ttW49F5Q8LhjrH1vmIxN9Jr?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "b1u11",
+                "title": "1.1 Dokumen Renstra dan Renop Fakultas/Sekolah Tinggi",
+                "link": "https://drive.google.com/drive/folders/1VNy1L2jdWmpi4N4LKEV_jt-01TJH2tJx?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "b1u21",
+                "title": "2.1 Dokumen SOP yang terkait dengan tata pamong",
+                "link": "https://drive.google.com/drive/folders/1VXaaE0BDa3gY_1ZpWdlnI8ii4eQ2o93m?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "b1u25",
+                "title": "2.5 Dokumen tentang sistem penjaminan mutu di tingkat Fakultas/Sekolah Tinggi",
+                "link": "https://drive.google.com/drive/folders/1VTgcx3F_D7dVEqEP0iddmYXGFuKnd6LN?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "b1u311",
+                "title": "3.1.1 Dokumen sistem penerimaan mahasiswa baru",
+                "link": "https://drive.google.com/drive/folders/1VZ-ziQoxdSn8vwfowi5mKXPUFmqSE6Ky?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "b1u51",
+                "title": "5.1 Dokumen yang terkait dengan penyusunan dan pengembangan kurikulum",
+                "link": "https://drive.google.com/drive/folders/1Vem50j50UHASmtMLl5M3RdyDWlU2DjGV?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "b1u611",
+                "title": "6.1.1 Laporan keuangan Fakultas/Sekolah Tinggi dalam tiga tahun terakhir",
+                "link": "https://drive.google.com/drive/folders/1Vryd15gNoqlhX80iUhjuMmlGiqjBshGh?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "b1u64",
+                "title": "6.4 Daftar software yang berlisensi, petunjuk pemanfaatan SIM",
+                "link": "https://drive.google.com/drive/folders/1VuzMYyuCW9mhW9kSuznAXKy8-Pn-QTfN?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "b1u711",
+                "title": "7.1.1 Hasil penelitian (daftar judul) yang jumlah judulnya ada dalam borang",
+                "link": "https://drive.google.com/drive/folders/1VwWlRPaqiHldo3jqQWLrQZL-W2nzSODY?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "b1u721",
+                "title": "7.2.1 Hasil pelayanan/pengabdian kepada masyarakat (daftar judul) yang jumlah judulnya ada dalam borang",
+                "link": "https://drive.google.com/drive/folders/1VwWlRPaqiHldo3jqQWLrQZL-W2nzSODY?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "b1u731",
+                "title": "7.3.1 Dokumen pendukung kegiatan kerjasama Fakultas/Sekolah Tinggi dengan instansi dalam negeri",
+                "link": "https://drive.google.com/drive/folders/1WAKI1RMrXX6H-snPB41umUlZkq3NCq-s?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "b1u732",
+                "title": "7.3.2 Dokumen pendukung kegiatan kerjasama Fakultas/Sekolah Tinggi dengan instansi luar negeri",
+                "link": "https://drive.google.com/drive/folders/1WBrCRnUz4s1-lxHs73Eqzuhv2QI1jvCx?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            }
+        ]
+    }
+]

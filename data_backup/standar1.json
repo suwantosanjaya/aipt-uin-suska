@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "title": "STANDAR 1",
+        "link": "",
+        "type": "",
+        "rel": [],
+        "child": [
+            {
+                "id": "1a1",
+                "title": "1.a.1 Sertifikasi - Akreditasi Eksternal",
+                "link": "https://drive.google.com/drive/folders/1NNxnKTztO4fDoYbVrr0yJcRe8t06Pkbz?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "1a2",
+                "title": "1.a.2 Akreditasi Internasional Program Studi",
+                "link": "https://drive.google.com/drive/folders/1NUx1J53gIhsoQfRGLg7r9unAzc4HMgn2?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "1a3",
+                "title": "1.a.3 Audit Keuangan Eksternal",
+                "link": "https://drive.google.com/drive/folders/1NYyDgNMNCqmpZ2uy56LtEUEgn_o7Uqqe?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "1b",
+                "title": "1.b Akreditasi Program Studi",
+                "link": "https://drive.google.com/drive/folders/1NXJosUO4m0porko4GlqNgxFivcfUX5A-?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "1c",
+                "title": "1.c Kerjasama Perguruan Tinggi",
+                "link": "https://drive.google.com/drive/folders/1NZzaCsRZQCPOUmKgdcwcdLZFoQg_XZj2?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            }
+        ]
+    }
+]

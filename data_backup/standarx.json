@@ -1,0 +1,298 @@
+[
+  {
+    "id": 1,
+    "title": "STANDAR 1. VISI, MISI, TUJUAN DAN SASARAN, SERTA STRATEGI PENCAPAIAN",
+    "link": "",
+    "type": "",
+    "rel": [],
+    "child": [
+      {
+        "id": 11,
+        "title": "1.1. Visi, Misi, Tujuan, dan Sasaran serta Strategi Pencapaian",
+        "link": "",
+        "type": "",
+        "rel": [],
+        "child": [
+          {
+            "id": 111,
+            "title": "1.1.1. Jelaskan mekanisme penyusunan visi, misi, tujuan dan sasaran program studi, serta pihak-pihak yang dilibatkan",
+            "link": "",
+            "type": "",
+            "rel": [],
+            "child": [
+              {
+                "id": 1111,
+                "title": "File 1",
+                "link": "https:\/\/drive.google.com\/file\/d\/1ZWLDYS4uMP3Ms5aZSsVrrg6nxWf9ep7Q\/view?usp=sharing",
+                "type": "pdf",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": 1112,
+                "title": "File 2",
+                "link": "standar1\/2.pdf",
+                "type": "ppt",
+                "rel": [
+                  1111,
+                  1111,
+                  1111
+                ],
+                "child": []
+              },
+              {
+                "id": 1113,
+                "title": "File 3",
+                "link": "standar1\/3.pdf",
+                "type": "doc",
+                "rel": [],
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": 112,
+            "title": "1.1.2. Visi",
+            "link": "",
+            "type": "",
+            "rel": [],
+            "child": [
+              {
+                "id": 1121,
+                "title": "File 1",
+                "link": "standar1\/1.pdf",
+                "type": "jpg",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": 1122,
+                "title": "File 2",
+                "link": "standar1\/2.pdf",
+                "type": "pdf",
+                "rel": [],
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": 113,
+            "title": "1.1.3. Misi",
+            "link": "",
+            "type": "",
+            "rel": [],
+            "child": [
+              {
+                "id": 1131,
+                "title": "File 1",
+                "link": "standar1\/1.pdf",
+                "type": "pdf",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": 1132,
+                "title": "File 2",
+                "link": "",
+                "type": "",
+                "rel": [],
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": 114,
+            "title": "1.1.4. Tujuan",
+            "link": "",
+            "rel": [],
+            "child": [
+              {
+                "id": 1141,
+                "title": "File 1",
+                "link": "standar1\/1.pdf",
+                "type": "pdf",
+                "rel": [
+                  1111,
+                  1112
+                ],
+                "child": []
+              },
+              {
+                "id": 1142,
+                "title": "File 2",
+                "link": "standar1\/2.pdf",
+                "type": "pdf",
+                "rel": [],
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": 115,
+            "title": "1.1.5. Sasaran dan Strategi Pencapaiannya",
+            "link": "",
+            "rel": [],
+            "child": [
+              {
+                "id": 1151,
+                "title": "File 1",
+                "link": "standar1\/1.pdf",
+                "type": "pdf",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": 1152,
+                "title": "File 2",
+                "link": "standar1\/2.pdf",
+                "type": "pdf",
+                "rel": [
+                  121,
+                  122
+                ],
+                "child": []
+              },
+              {
+                "id": 1153,
+                "title": "File 3",
+                "link": "standar1\/3.pdf",
+                "type": "pdf",
+                "rel": [],
+                "child": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "1.2. Sosialisasi",
+        "link": "",
+        "rel": [],
+        "child": [
+          {
+            "id": 121,
+            "title": "File 121",
+            "link": "doc",
+            "rel": [],
+            "child": [
+              {
+                "id": 121001,
+                "title": "File x",
+                "link": "",
+                "type": "doc",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": 121002,
+                "title": "File x",
+                "link": "",
+                "type": "doc",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": 121003,
+                "title": "File x",
+                "link": "",
+                "type": "doc",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": 121004,
+                "title": "File x",
+                "link": "",
+                "type": "doc",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": 121005,
+                "title": "File x",
+                "link": "",
+                "type": "doc",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": 121006,
+                "title": "File x",
+                "link": "",
+                "type": "doc",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": 121007,
+                "title": "File x",
+                "link": "",
+                "type": "doc",
+                "rel": [],
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": 122,
+            "title": "Diubah File xasdtfyguhjk",
+            "link": "",
+            "type": "doc",
+            "rel": [],
+            "child": [
+              {
+                "id": 6311,
+                "title": "Diubah File xasdtfyguhjk",
+                "link": "",
+                "type": "doc",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": 6311,
+                "title": "File x",
+                "link": "",
+                "type": "doc",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": 6311,
+                "title": "File x",
+                "link": "",
+                "type": "doc",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": 12200000,
+                "title": "File x",
+                "link": "",
+                "type": "doc",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": 12200001,
+                "title": "File x",
+                "link": "",
+                "type": "doc",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": 12200002,
+                "title": "File x",
+                "link": "",
+                "type": "doc",
+                "rel": [],
+                "child": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

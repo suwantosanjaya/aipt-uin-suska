@@ -1,0 +1,43 @@
+[
+    {
+        "id": "a8doc",
+        "title": "Dokumentasi video",
+        "link": "",
+        "type": "",
+        "rel": [],
+        "child": [
+            {
+                "id": "a8doc1",
+                "title": "Fasilitas terpusat (laboratorium, Perpustakaan, pengelola sistem informasi)",
+                "link": "https://drive.google.com/drive/folders/1UozGkQndvZ9xEhqXtHr28xcEQTO6affN?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a8doc2",
+                "title": "Lecture/Lab work/research",
+                "link": "https://drive.google.com/drive/folders/1V3AVWOmswU734robrXEPQr4kbluod3mH?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a8doc3",
+                "title": "Ruang dosen dan tenaga kependidikan",
+                "link": "https://drive.google.com/drive/folders/1V6Ljc6mFq0t6sXmcOFv7ujrSHKp0LMzo?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a8doc4",
+                "title": "Fasilitas umum, UKM, dan Fasilitas pendukung lainnya",
+                "link": "https://drive.google.com/drive/folders/1V6qdJw_XJc7frVTOjXicw3Ge-Ms8HWJ0?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            }
+        ]
+    }
+]

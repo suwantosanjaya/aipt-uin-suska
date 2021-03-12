@@ -1,0 +1,1134 @@
+[
+  {
+    "id": "7",
+    "title": "STANDAR 7. PENELITIAN, PELAYANAN/PENGABDIAN KEPADA MASYARAKAT, DAN KERJASAMA",
+    "link": "",
+    "type": "",
+    "rel": [],
+    "child": [
+      {
+        "id": "71",
+        "title": "7.1. Penelitian Dosen Tetap yang Bidang Keahliannya Sesuai dengan PS",
+        "link": "",
+        "type": "",
+        "rel": [],
+        "child": [
+          {
+            "id": "711",
+            "title": "7.1.1. Jumlah judul penelitian yang sesuai dengan bidang keilmuan PS, yang dilakukan oleh dosen tetap yang bidang keahliannya sesuai dengan PS selama tiga tahun terakhir",
+            "link": "",
+            "type": "",
+            "rel": [],
+            "child": [
+              {
+                "id": "7111",
+                "title": "Rekap Penelitian dosen dengan biaya dalam negeri",
+                "link": "https://drive.google.com/drive/folders/1apf-TvBPsjGlj-fxPZAaKNxuWHE_E04Q?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": "7112",
+                "title": "Rekap Penelitian dosen dengan biaya luar negeri",
+                "link": "https://drive.google.com/drive/folders/14qKsB8FdISnpC1XoFP6HUdkMYRAT78Rr?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": "712",
+            "title": "7.1.2 Keterlibatan mahasiswa yang melakukan tugas akhir dalam penelitian dosen",
+            "link": "",
+            "type": "",
+            "rel": [],
+            "child": [
+              {
+                "id": "7121",
+                "title": "Data Dokumen bukti peneltian dosen yang melibatkan mahasiswa",
+                "link": "https://drive.google.com/drive/folders/10M75atihxSrNkTQArJkiIETmb_8Xak5D?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": "713",
+            "title": "7.1.3. Judul artikel ilmiah/karya ilmiah/karya seni/buku yang dihasilkan selama tiga tahun terakhir oleh dosen tetap yang bidang keahliannya sesuai dengan PS",
+            "link": "",
+            "type": "",
+            "rel": [],
+            "child": [
+              {
+                "id": "7131",
+                "title": "Rekap judul karya ilmiah",
+                "link": "https://drive.google.com/drive/folders/1yciszl4m17vyS_Hmn_zAlUa5BWcmvHP4?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": "7132",
+                "title": "Bukti karya ilmiah",
+                "link": "",
+                "type": "",
+                "rel": [],
+                "child": [
+                  {
+                    "id": "71301",
+                    "title": "JASRIL, S.SI, M.SC",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713011",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.com/citations?user=w6QRLBkAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713012",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=57215889287",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713013",
+                        "title": "SINTA",
+                        "link": "http://sinta.ristekbrin.go.id/authors/detail?id=6006974&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71302",
+                    "title": "FITRI WULANDARI, S.SI, M.KOM",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713021",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.com/citations?user=nnsE3L4AAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71303",
+                    "title": "DR. OKFALISA, S.T, M.SC",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713032",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=35102923400",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713033",
+                        "title": "SINTA",
+                        "link": "http://sinta.ristekbrin.go.id/authors/detail/?id=6166592&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71304",
+                    "title": "DR. ALWIS NAZIR, M.KOM",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713041",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.com/citations?hl=en&user=DLZwMb4AAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713042",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=56043869000",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713043",
+                        "title": "SINTA",
+                        "link": "http://sinta.ristekbrin.go.id/authors/detail?id=5994916&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71305",
+                    "title": "SURYA AGUSTIAN, S.T, M.KOM",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713051",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.com/citations?user=HLr2oQEAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713052",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=36553974400",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713053",
+                        "title": "SINTA",
+                        "link": "http://sinta.ristekbrin.go.id/authors/detail?id=6719886&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71306",
+                    "title": "NOVRIYANTO, S.T, M.SC",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713061",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.com/citations?user=GxenjmgAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713062",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=57217728532",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713063",
+                        "title": "SINTA",
+                        "link": "https://sinta.ristekbrin.go.id/authors/detail?id=6744983&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71307",
+                    "title": "MUHAMMAD IRSYAD, S.T, M.T",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713071",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.com/citations?hl=en&user=H4_TYuQAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713072",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=57204261647",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713073",
+                        "title": "SINTA",
+                        "link": "http://sinta.ristekbrin.go.id/authors/detail?id=6671305&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71308",
+                    "title": "MUHAMMAD FIKRY, S.T, M.SC",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713081",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.co.id/citations?view_op=list_works&hl=en&user=-YMRXroAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713083",
+                        "title": "SINTA",
+                        "link": "http://sinta.ristekbrin.go.id/authors/detail?id=6184700&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71309",
+                    "title": "DR. ELIN HAERANI, S.T, M.KOM",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713091",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.com/citations?authuser=1&user=U12fAN8AAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713092",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=57214965959",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713093",
+                        "title": "SINTA",
+                        "link": "https://sinta.ristekbrin.go.id/authors/detail?id=6744986&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71310",
+                    "title": "FEBI YANTO, S.KOM, M.KOM",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713101",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.com/citations?user=a1Elg3wAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713102",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=57204963122",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713093",
+                        "title": "SINTA",
+                        "link": "https://sinta.ristekbrin.go.id/authors/detail/?id=6671291&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71311",
+                    "title": "LESTARI HANDAYANI, S.T, M.KOM",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713111",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.com/citations?user=chtvU6AAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713112",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=57194701466",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713113",
+                        "title": "SINTA",
+                        "link": "http://sinta.ristekbrin.go.id/authors/detail/?id=6003964&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71312",
+                    "title": "NOVI YANTI, S.T, M.KOM",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713121",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.com/citations?user=d5i12asAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713122",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=56369518600",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713123",
+                        "title": "SINTA",
+                        "link": "http://sinta.ristekbrin.go.id/authors/detail/?id=6690083&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71313",
+                    "title": "BENNY SUKMA NEGARA, S.T, M.T",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713131",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.com/citations?user=QdDCk0sAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713133",
+                        "title": "SINTA",
+                        "link": "http://sinta.ristekbrin.go.id/authors/detail/?id=6647055&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71315",
+                    "title": "FITRA KURNIA, S.KOM, M.T",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": 713151,
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.com/citations?user=QR-vCbIAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71316",
+                    "title": "IWAN ISKANDAR, S.T, M.T",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713161",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.co.id/citations?user=h086rxsAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713162",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=55316114000",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713163",
+                        "title": "SINTA",
+                        "link": "http://sinta.ristekbrin.go.id/authors/detail?id=6071239&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71317",
+                    "title": "YUSRA, S.T, M.T",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713171",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.co.id/citations?user=cjPBODEAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713173",
+                        "title": "SINTA",
+                        "link": "https://sinta.ristekbrin.go.id/authors/detail?id=6185741&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71318",
+                    "title": "RESKI MAI CANDRA, S.T, M.SC",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713181",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.com/citations?user=G_Sj25wAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713183",
+                        "title": "SINTA",
+                        "link": "https://sinta.ristekbrin.go.id/authors/detail/?id=6069430&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71320",
+                    "title": "ELVIA BUDIANITA, S.T, M.CS",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713201",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.co.id/citations?user=jWPzzfwAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713292",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=57194707206",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713193",
+                        "title": "SINTA",
+                        "link": "https://sinta.ristekbrin.go.id/authors/detail/?id=6671285&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71321",
+                    "title": "MUHAMMAD AFFANDES, S.T, M.T",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713211",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.com/citations?user=8vPhN6EAAAAJ&hl=en",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713213",
+                        "title": "SINTA",
+                        "link": "https://sinta.ristekbrin.go.id/authors/detail/?id=6651946&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71322",
+                    "title": "NAZRUDDIN SAFAAT HARAHAP, S.T, M.T",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713221",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.co.id/citations?user=reJ4g7kAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713223",
+                        "title": "SINTA",
+                        "link": "http://sinta.ristekbrin.go.id/authors/detail/?id=6003063&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71323",
+                    "title": "RAHMAD ABDILLAH, S.T, M.T",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713231",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.co.id/citations?user=IHK7AC8AAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713232",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=57210600304",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713233",
+                        "title": "SINTA",
+                        "link": "http://sinta.ristekbrin.go.id/authors/detail?id=6003116&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71324",
+                    "title": "FADHILAH SYAFRIA, S.T, M.KOM",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713241",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.co.id/citations?user=9aml6ykAAAAJ&hl=id",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713242",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=56595297400",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713243",
+                        "title": "SINTA",
+                        "link": "http://sinta.ristekbrin.go.id/authors/detail?id=6650846&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71325",
+                    "title": "SITI RAMADHANI, S.PD, M.KOM",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713251",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.co.id/citations?user=SDFrPO4AAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713252",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=57202987037",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713253",
+                        "title": "SINTA",
+                        "link": "https://sinta.ristekbrin.go.id/authors/detail/?id=6604811&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71326",
+                    "title": "SISKA KURNIA GUSTI, S.T, M.SC",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713261",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.com/citations?user=CQ4_AycAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713262",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=57214108906",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713263",
+                        "title": "SINTA",
+                        "link": "https://sinta.ristekbrin.go.id/authors/detail/?id=6671281&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71327",
+                    "title": "SUWANTO SANJAYA, S.T, M.KOM",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713271",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.com/citations?user=ZtQctKkAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713272",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=57210605189",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713273",
+                        "title": "SINTA",
+                        "link": "http://sinta.ristekbrin.go.id/authors/detail?id=6010945&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71328",
+                    "title": "FITRI INSANI, S.T, M.KOM",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713281",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.co.id/citations?user=zU5mXEcAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713282",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=57190404820",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713283",
+                        "title": "SINTA",
+                        "link": "https://sinta.ristekbrin.go.id/authors/detail/?id=6671283&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71329",
+                    "title": "IIS AFRIANTY, S.T, M.SC",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713291",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.com/citations?hl=en&user=BXtA2YAAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713292",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=56111837800",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713293",
+                        "title": "SINTA",
+                        "link": "http://sinta.ristekbrin.go.id/authors/detail?id=6003987&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71330",
+                    "title": "PIZAINI, S.T, M.KOM",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713301",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.co.id/citations?user=-0cldoEAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713213",
+                        "title": "SINTA",
+                        "link": "http://sinta.ristekbrin.go.id/authors/detail/?id=6088016&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71331",
+                    "title": "EKA PANDU CYNTHIA, S.T, M.KOM",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713311",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.co.id/citations?user=M5SFF_YAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713313",
+                        "title": "SINTA",
+                        "link": "http://sinta.ristekbrin.go.id/authors/detail/?id=6006949&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71332",
+                    "title": "LOLA OKTAVIA, S.S.T, M.T.I",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713321",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.co.id/citations?user=4Bk-UPsAAAAJ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713322",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=55965131100",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713323",
+                        "title": "SINTA",
+                        "link": "https://sinta.ristekbrin.go.id/authors/detail?id=6671282&view=overview",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71333",
+                    "title": "DR. RAHMAD KURNIAWAN, S.T, M.I.T",
+                    "link": "",
+                    "type": "",
+                    "rel": [],
+                    "child": [
+                      {
+                        "id": "713331",
+                        "title": "Google Scholar",
+                        "link": "https://scholar.google.co.id/citations?user=3AcXyUcAAAAJ&hl=en ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713332",
+                        "title": "Scopus",
+                        "link": "https://www.scopus.com/authid/detail.uri?authorId=57188235500 ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      },
+                      {
+                        "id": "713333",
+                        "title": "SINTA",
+                        "link": "http://sinta.ristekbrin.go.id/authors/detail?id=6004006&view=overview ",
+                        "type": "link",
+                        "rel": [],
+                        "child": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "714",
+            "title": "7.1.4. Karya dosen dan atau mahasiswa Program Studi yang telah memperoleh/sedang memproses perlindungan Hak atas Kekayaan Intelektual (HaKI) selama tiga tahun terakhir",
+            "link": "",
+            "type": "",
+            "rel": [],
+            "child": [
+              {
+                "id": "7141",
+                "title": "Sertifikat HaKI",
+                "link": "https://drive.google.com/drive/folders/1OvE_6ResrMGa_wV626hvLStRn4lgUak4?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "72",
+        "title": "7.2. Kegiatan Pelayanan/Pengabdian kepada Masyarakat (PkM)",
+        "link": "",
+        "type": "",
+        "rel": [],
+        "child": [
+          {
+            "id": "721",
+            "title": "7.2.1 Jumlah kegiatan Pengabdian kepada Masyarakat (PkM) yang dilakukan oleh dosen tetap yang bidang keahliannya sesuai dengan PS",
+            "link": "",
+            "type": "",
+            "rel": [],
+            "child": [
+              {
+                "id": "7211",
+                "title": "Rekap Pengabdian kepada Masyarakat (PkM)",
+                "link": "https://drive.google.com/drive/folders/1Rtfxi4xOGmX_D0D4HSevKLPzndSkzRzG?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": "7212",
+                "title": "Bukti-bukti pengabdian semua dosen: sertifikat, ucapan terimakasih, dll",
+                "link": "https://drive.google.com/drive/folders/1lLdgjJqB8tg4HfibcRv8O9dCA5NIdR-I?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": "722",
+            "title": "7.2.2. Mahasiswa yang dilibatkan dalam kegiatan pelayanan/pengabdian kepada masyarakat dalam tiga tahun terakhir",
+            "link": "",
+            "type": "",
+            "rel": [],
+            "child": [
+              {
+                "id": "7221",
+                "title": "SK Penugasan yang memuat nama mahasiswa dan tugasnya",
+                "link": "https://drive.google.com/drive/folders/116n9ciIiqS-xRSbcfQ7-eYvgNtUo_GRB?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "73",
+        "title": "7.3. Kegiatan Kerjasama dengan Instansi Lain",
+        "link": "",
+        "type": "",
+        "rel": [],
+        "child": [
+          {
+            "id": "731",
+            "title": "7.3.1 Kegiatan kerjasama dengan instansi di dalam negeri dalam tiga tahun terakhir",
+            "link": "",
+            "type": "",
+            "rel": [],
+            "child": [
+              {
+                "id": "7311",
+                "title": "Dokumen semua MoU kerjasama dengan instansi-instansi dalam negeri yang relevan dengan bidang PS",
+                "link": "https://drive.google.com/drive/folders/11IR8WWtaI-y5bPVZF051Aobv9Jqst58M?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": "7312",
+                "title": "Program kerjasama dan hasilnya/laporannya",
+                "link": "https://drive.google.com/drive/folders/11NWHt4LwNtSEX7LGf3NVoVBcUyZGVdm-?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+              }
+            ]
+          },
+          {
+            "id": "732",
+            "title": "7.3.2 Kegiatan kerjasama dengan instansi di luar negeri dalam tiga tahun terakhir",
+            "link": "",
+            "type": "",
+            "rel": [],
+            "child": [
+              {
+                "id": "7321",
+                "title": "Dokumen semua MoU kerjasama dengan instansi-instansi luar negeri yang relevan dengan bidang PS",
+                "link": "https://drive.google.com/drive/folders/11RZ_lvF3EFigEFlS_VIiNzDzna8uBf5V?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+              },
+              {
+                "id": "7322",
+                "title": "Program kerjasama dan hasilnya/laporannya",
+                "link": "https://drive.google.com/drive/folders/11WVrxIRL9tO_EYTp58xptpRQ-qG6XHdd?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

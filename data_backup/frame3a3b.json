@@ -1,0 +1,59 @@
+[
+    {
+        "id": "3a",
+        "title": "LAMPIRAN BORANG 3A",
+        "link": "",
+        "type": "",
+        "rel": [],
+        "child": []
+    },
+    {
+        "id": "3b",
+        "title": "LAMPIRAN BORANG 3B",
+        "link": "",
+        "type": "",
+        "rel": [],
+        "child": []
+    },
+    {
+        "id": "db",
+        "title": "Dokumen Borang",
+        "link": "",
+        "type": "",
+        "rel": [],
+        "child": [
+            {
+                "id": "brg3a",
+                "title": "Borang 3A",
+                "link": "https://drive.google.com/drive/folders/1Fp-m7E5CjFxo4EVhUO6LJelBpEVm6JSQ?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "brg3b",
+                "title": "Borang 3B",
+                "link": "https://drive.google.com/drive/folders/1Fv1oTsKfQu3ft_0BHOIupmgHmep9fdXe?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "ed",
+                "title": "Evaluasi Diri",
+                "link": "https://drive.google.com/drive/folders/1Fw3LGX7KVbjXlzrTw7UL9pdYzQV9fLP6?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "lain1",
+                "title": "Lainnya",
+                "link": "https://drive.google.com/drive/folders/1G0Be8m5qpydesH7442QK7Qoyz3wnxcXS?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            }
+        ]
+    }
+]

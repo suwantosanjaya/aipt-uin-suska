@@ -1,0 +1,91 @@
+[
+    {
+        "id": "a6",
+        "title": "Keuangan, Sarana dan Prasarana",
+        "link": "",
+        "type": "",
+        "rel": [],
+        "child": [
+            {
+                "id": "a611",
+                "title": "6.1.1 Dokumen pengelolaan dana",
+                "link": "https://drive.google.com/drive/folders/1TMfRXBv8WXVx0qYx6jbzSM-yGRDJK5TZ?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a618",
+                "title": "6.1.8 Laporan monitoring dan evaluasi keuangan",
+                "link": "https://drive.google.com/drive/folders/1TOPMiV46kiX1bQW52XMtzJObYXgOq5OY?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a619",
+                "title": "6.1.9 Laporan audit keuangan",
+                "link": "https://drive.google.com/drive/folders/1TRRasJg5DO8rQp2nnBTzc_mcgpbVJv-2?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a621",
+                "title": "6.2.1 Dokumen pengelolaan prasarana dan sarana",
+                "link": "https://drive.google.com/drive/folders/1TRez3RjLP7qJiurSH1pOL8Xt7XTKKIzH?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a622",
+                "title": "6.2.2 Dokumen pemilikan tanah",
+                "link": "https://drive.google.com/drive/folders/1TYV6FDhbSQd_6Q8Gw2bmS81r59rpjF_Y?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a627",
+                "title": "6.2.7 Daftar prasana dan sarana pembelajaran terpusat",
+                "link": "https://drive.google.com/drive/folders/1TgH_cbNtNdCqiQ6_TWUu0wYFmcEoBw_x?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a631",
+                "title": "6.3.1 Dokumen sistem informasi pengelolaan proses pembelajaran",
+                "link": "https://drive.google.com/drive/folders/1Thr394LvxlDZWzn9XC6o34eojbcANK4g?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a632",
+                "title": "6.3.2 Dokumen sistem informasi pengelolaan administrasi umum",
+                "link": "https://drive.google.com/drive/folders/1TpcgGLke-oORJ-IT3K53vVKFgPjgYe_H?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a633",
+                "title": "6.3.3 Dokumen sistem informasi pengelolaan prasarana dan sarana",
+                "link": "https://drive.google.com/drive/folders/1TpoNXrew3Zv-Ylt4W5oK_GSHyjcEEG_U?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a638",
+                "title": "6.3.8 Blue print pengembangan, pengelolaan, dan pemanfaatan sistem informasi",
+                "link": "https://drive.google.com/drive/folders/1Tz9a2_irRCCg10kz28zjZtWRlCR0t-5x?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            }
+        ]
+    }
+]

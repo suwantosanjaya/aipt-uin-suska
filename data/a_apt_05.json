@@ -1,0 +1,59 @@
+[
+    {
+        "id": "a5",
+        "title": "Pendidikan",
+        "link": "",
+        "type": "",
+        "rel": [],
+        "child": [
+            {
+                "id": "a511",
+                "title": "5.1.1 Dokumen kebijakan pengembangan kurikulum",
+                "link": "https://drive.google.com/drive/folders/1TDZD9e2pO_2Ds6wQr7nICeneZ4Y9fjwL?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a512",
+                "title": "5.1.2 Dokumen analisis dan evaluasi pemutakhiran kurikulum",
+                "link": "https://drive.google.com/drive/folders/1TEbOIzoCHrl0_3N0vDkjcOYQNm1r7LtT?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a522",
+                "title": "5.2.2 Dokumen pengendalian mutu pembelajaran",
+                "link": "https://drive.google.com/drive/folders/1TEkPt7y_OgPX8BHAqTBR0YBnFyuHUn2v?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a523",
+                "title": "5.2.3 Pedoman pelaksanaan tridharma",
+                "link": "https://drive.google.com/drive/folders/1TEkPt7y_OgPX8BHAqTBR0YBnFyuHUn2v?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a531",
+                "title": "5.3.1 Dokumen tentang kebebasan akademik, kebebasan mimbar akademik, dan otonomi keilmuan",
+                "link": "https://drive.google.com/drive/folders/1TFOuWZUzySbkiNmpuHIpCgs0ydfggNze?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            },
+            {
+                "id": "a532",
+                "title": "5.3.2 Dokumen sistem pengembangan suasana akademik",
+                "link": "https://drive.google.com/drive/folders/1TMIPRx-LzzWVdjGNGwmX0yM2ws65jtBl?usp=sharing",
+                "type": "fdrive",
+                "rel": [],
+                "child": []
+            }
+        ]
+    }
+]

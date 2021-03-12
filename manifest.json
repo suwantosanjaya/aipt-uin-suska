@@ -1,0 +1,29 @@
+{
+  "name": "Dashboard Dokumen AIPT UIN Suska Riau",
+  "short_name": "Dokumen AIPT UIN Suska Riau",
+  "description": "Dashboard Dokumen AIPT UIN Suska Riau",
+  "start_url": "/aipt-uin-suska/",
+  "display": "standalone",
+  "background_color": "#10897B",
+  "theme_color": "#00796b",
+  "icons": [
+    {
+      "src": "./img/uin128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./img/uin256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./img/uin512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
